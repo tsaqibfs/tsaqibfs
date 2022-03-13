@@ -8,7 +8,7 @@
 
 I'm a new programmer & designer. I love programming and designing
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="310" />
 
 **Talking about Personal Stuffs:**
 
