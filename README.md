@@ -8,8 +8,6 @@
 
 I'm a new programmer & designer. I love programming and designing
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="390" height="278" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
