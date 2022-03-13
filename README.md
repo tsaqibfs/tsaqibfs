@@ -14,7 +14,6 @@ I'm a new programmer & designer. I love programming and designing
 - 🚀 I’m currently learning Typescript and Javascript;
 
 </br>
-
 📈 **My GitHub Stats:**
 
 <p>
