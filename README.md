@@ -11,7 +11,7 @@ I'm a new programmer & designer. I love programming and designing
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Typescript and Javascript;
+- 🚀 I’m currently learning Javascript;
 
 </br>
 
