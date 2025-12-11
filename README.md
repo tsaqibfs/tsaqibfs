@@ -25,6 +25,15 @@
     </picture>
   </a>
 
+- **Code Editor & IDE:**<br/>
+  <a href="https://skillicons.dev">
+    <picture>
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=6" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark&perline=6" alt="Languages">
+      <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark&perline=6" alt="Languages">
+    </picture>
+  </a>
+
 ## Connect with me
 <div align="center">
 <a href="https://www.facebook.com/tsaqibfs" target="_blank">
