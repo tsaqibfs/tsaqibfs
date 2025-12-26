@@ -7,7 +7,7 @@
 ## <div align="center">I'm Tsaqib Fadhlurrahman Soka, a Hobbyist programmer since 2020</div>
 
 - 🔭 I’m currently study on [PENS](https://www.pens.ac.id/) as a student.
-- 🌱 I’m currently learning Flutter, full stack web, and game development.
+- 🌱 I’m currently learning full stack web and game development.
 - ❓ Ask me about anything related to IT and related technologies.
 - 💭 I have an interest in app, web, and game development.
 
