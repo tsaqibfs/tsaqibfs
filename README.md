@@ -21,7 +21,6 @@
       <img src="https://skillicons.dev/icons?i=html&theme=dark&perline=6" alt="Languages">
       <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=6" alt="Languages">
       <img src="https://skillicons.dev/icons?i=js&theme=dark&perline=6" alt="Languages">
-      <img src="https://skillicons.dev/icons?i=dart&theme=dark&perline=6" alt="Languages">
     </picture>
   </a>
 
